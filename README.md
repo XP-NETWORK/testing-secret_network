@@ -42,3 +42,7 @@ Received on BSC: https://testnet.bscscan.com/tx/0x6ae6bc8dc9e9b1ddc2e9a9eba3bdb9
 ```
 yarn bsc-secret
 ```
+
+Departed from BSC: https://testnet.bscscan.com/tx/0x76b7f09912a0810556afffad1c10edbb67a2e49614bf3bfc1965e92b922e3171
+
+Arrived on Secret: https://secretnodes.com/secret/chains/pulsar-2/blocks/3214328/transactions/2501FFEE7FC10F242ECA14197F08292D2CE928A78E6427BF09A594AFA1F23C6F
