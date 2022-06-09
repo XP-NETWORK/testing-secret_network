@@ -31,6 +31,11 @@ Example: https://secretnodes.com/secret/chains/pulsar-2/transactions/CE92DD04090
 ```
 yarn secret-bsc
 ```
+To veiw the result on the chain explorer replace the hash below with the one form the terminal (transactionHash: '3476773BC9F325E2251476A1C2CB12C0158778129DCF0BACADEEE29FAF72D715')
+
+Example: https://secretnodes.com/secret/chains/pulsar-2/transactions/3476773BC9F325E2251476A1C2CB12C0158778129DCF0BACADEEE29FAF72D715
+
+Received on BSC: https://testnet.bscscan.com/tx/0x6ae6bc8dc9e9b1ddc2e9a9eba3bdb9b8ad3ba7c468e0702e663241ec4cb335bf
 
 
 ## Transferring an NFT from BSC to Secret
