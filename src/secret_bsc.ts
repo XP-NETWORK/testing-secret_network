@@ -32,13 +32,11 @@ config();
         native: {
             contract: "secret146snljq0kjsva7qrx4am54nv3fhfaet7srx4n2",
             contractHash: "af076a49141264ec048270318f1358c9be193893c3f829425cab53ee5eb05e5c",
-            token_id: "INSERT MINTED SECRET NFT TOKEN ID HERE"
+            token_id: "6" //"INSERT MINTED SECRET NFT TOKEN ID HERE"
         },
         uri: "https://meta.polkamon.com/meta?id=10001852306"
 
     };
-
-    
 
     console.log("Approving...");
     const approve = await scrt.preTransfer(
