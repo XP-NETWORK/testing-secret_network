@@ -1,0 +1,19 @@
+{
+  "name": "testing_secret_network",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "mint": "tsc && ./dist/mint.js",
+    "bsc-secret": "tsc && ./dist/bsc_secret.js",
+    "secret-bsc": "tsc && ./dist/secret_bsc.js"
+  },
+  "dependencies": {
+    "@elrondnetwork/erdjs": "^10.2.5",
+    "@taquito/taquito": "^12.1.1",
+    "@temple-wallet/dapp": "^7.0.0",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.8",
+    "xp.network": "git+https://github.com/xp-network/xpjs#bleeding-edge"
+  }
+}
